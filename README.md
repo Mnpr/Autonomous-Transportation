@@ -1,3 +1,16 @@
+**Status**
+Documentation ( Main Tasks )
+- [ ] Perception
+- [ ] Sensor Fusion
+- [ ] Motion Planning [ A -2-> B ]
+- [ ] Vehicle Control
+- [ ] Hardware and Software Info
+
+Implementation
+
+- [ ] Kalman and Extended Kalman Filters for sensor fusion
+- [ ] A case-study of Operational Design Domain [ operating condition and environment ]
+
 # Autonomous Transportation
 
 Autonomous Transportation can be seen as composition of following domains.
@@ -5,7 +18,7 @@ Autonomous Transportation can be seen as composition of following domains.
 - Perception of the Environment
 - Motion Planning [ A -2-> B ]
 - Vehicle Control
-- Operational Design Domain( ODD ) [ operating condition and environment ]
+- Operational Design Domain( ODD ) 
 
 ## Tasks for Autonomous Driving
 
@@ -42,3 +55,4 @@ Autonomous Transportation can be seen as composition of following domains.
 2. [KITTI-360 : The KITTI Vision Benchmark Suite ](http://www.cvlibs.net/datasets/kitti/)
 3. [[PDF] DARPA Urban Challenge Technical Paper | Semantic Scholar](https://www.semanticscholar.org/paper/DARPA-Urban-Challenge-Technical-Paper-Reinholtz-Alberi/c10acd8c64790f7d040ea6f01d7b26b1d9a442db?p2df)
 4. [Lanelets: Efficient map representation for autonomous driving | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6856487)
+5. [MODS - A USV-oriented object detection and obstacle segmentation benchmark](https://arxiv.org/pdf/2105.02359.pdf)
