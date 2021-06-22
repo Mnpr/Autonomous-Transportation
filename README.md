@@ -1,15 +1,20 @@
+***
+
 **Status**
 Documentation ( Main Tasks )
-- [ ] Perception
-- [ ] Sensor Fusion
-- [ ] Motion Planning [ A -2-> B ]
+- [ ] [[ Perception ]](https://github.com/Mnpr/Autonomous-Transportation/tree/master/perception)
+- [ ] [[ Sensor Fusion ]](https://github.com/Mnpr/Autonomous-Transportation/tree/master/sensor_fusion)
+- [ ] [[ Motion Planning ]](https://github.com/Mnpr/Autonomous-Transportation/tree/master/motion_planning)
 - [ ] Vehicle Control
-- [ ] Hardware and Software Info
+- [ ] [[ Hardware and Software Info ]](https://github.com/Mnpr/Autonomous-Transportation/tree/master/hard_soft_ware)
 
 Implementation
 
+- [x] [Implement simple object deteciton [ Yolov4 + darknet_backend ]](https://github.com/Mnpr/Autonomous-Transportation/tree/master/implementation/perception/object_detection)
 - [ ] Kalman and Extended Kalman Filters for sensor fusion
 - [ ] A case-study of Operational Design Domain [ operating condition and environment ]
+
+***
 
 # Autonomous Transportation
 
