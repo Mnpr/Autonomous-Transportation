@@ -1,6 +1,7 @@
 ## Planning
 
 Types of Planning
+
 - Reactive ( rule based planning )
   - deciison based on current state of perception and rules
   - if ... then ( obstruction, stop )
@@ -13,11 +14,15 @@ Types of Planning
 ## Decision Making
 
 **Long Term** ( mission plan )
-  - From Source to Destinaiton
+
+- From Source to Destinaiton
+
 **Short Term** 
-  - Route change, intersections
+
+- Route change, intersections
+
 **Immediate**
-  - Trajectory control and planning
-  - Lateral and Longitudinal control
 
+- Trajectory control and planning
 
+- Lateral and Longitudinal control
