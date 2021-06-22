@@ -16,7 +16,7 @@ Device that measures or detects a property of the environment, or changes to a p
 
 **Categories**
 
-*exteroceptive* : exteero = sorrounding
+*exteroceptive* : extero = sorrounding
 
 - Camera
 
@@ -64,7 +64,7 @@ Properties : [ detection range, FOV, positon and speed accuracy ]
 
 - Robust object detection and relative speed estimation
 
-- Effective in adverse weather conditions.
+- Lesson 4 Environment Representation | CourseraEffective in adverse weather conditions.
 
 ## SONAR [ Sound Navigation and Ranging ]
 

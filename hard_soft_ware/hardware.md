@@ -35,3 +35,13 @@
 - Sensor supporting maneuvers within the ODD [ Operational Design Domain ]
 
 - Traffifc speed, volume, #of lanes, etc. 
+
+****
+
+**Todo :** Case-studies
+
+- Scenario Cars [ road ] 
+
+- Scenario Ships [ water ] 
+
+****[Lanelets: Efficient map representation for autonomous driving | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6856487)
